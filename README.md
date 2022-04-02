@@ -24,10 +24,8 @@ pointclouds.plotly(0).show()
 `pip install 'git+https://github.com/gradslam/gradslam.git'`
 
 ### Install from local clone (Recommended)
-```
-git clone https://github.com/krrish94/chamferdist.git
-cd chamferdist
-pip install .
+
+pip install chamferdist
 cd ..
 git clone https://github.com/gradslam/gradslam.git
 cd gradslam
