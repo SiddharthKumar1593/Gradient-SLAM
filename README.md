@@ -42,11 +42,3 @@ print(gs.__version__)
 ```
 
 You should see the version number displayed.
-```
-
-
-## Contributors
-
-* Soroush Saryazdi
-* Krishna Murthy Jatavallabhula
-* Ganesh Iyer
